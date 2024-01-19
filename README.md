@@ -1,0 +1,4 @@
+ONE to ONE
+ONE to MANY
+MANY to ONE
+MANY to MANY
